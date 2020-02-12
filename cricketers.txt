@@ -3,5 +3,8 @@ players
 dhoni
 yuvraj
 raina
+jadeja
+rohit
+dhawan
 
 remaining players obdate soon.
